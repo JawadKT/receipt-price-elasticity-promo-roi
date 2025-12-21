@@ -10,6 +10,26 @@ analytics team could adapt for real retail data.
 
 ---
 
+## Quickstart
+
+From a clean clone:
+
+```bash
+# (optional) create a virtual environment
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
+
+# install minimal dependencies
+pip install -r requirements.txt
+
+# run the full synthetic pipeline (price changes → elasticity → promo ROI)
+python src/run_all.py
+```
+
+Key outputs will be written to `reports/tables/`.
+
+---
+
 ## Overview & Business Problem
 
 Retailers run constant discounts and promotions but often cannot answer:
@@ -49,6 +69,15 @@ If you plug in actual retailer receipts, those must live under:
 
 The rest of the pipeline (features, models, reports) is designed so that
 only **aggregated artifacts** and **synthetic examples** are versioned.
+
+For messy real-world product strings, you can optionally provide a
+canonical mapping:
+
+- `data/sample/product_name_map.csv`
+  - Columns: `raw_name, canonical_name, category`
+  - When present, the runner scripts will map raw product names onto a
+    cleaner `canonical_name` and (optionally) overwrite / fill the
+    `category` field before any modeling.
 
 ---
 
