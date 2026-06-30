@@ -1,5 +1,6 @@
 # Receipt-Driven Price Elasticity & Promo ROI Analyzer
-ee
+
+
 A small, end-to-end project that uses synthetic grocery receipts to:
 - detect price changes and promotions,
 - estimate product-level price elasticity, and
