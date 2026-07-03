@@ -1,7 +1,7 @@
 """Setup script for receipt-price-elasticity-promo-roi package."""
 
 from setuptools import find_packages, setup
-e
+
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
