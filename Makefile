@@ -1,5 +1,5 @@
 .PHONY: help install test lint format clean
-e
+
 help:
 	@echo "Available commands:"
 	@echo "  make install    Install dependencies"
