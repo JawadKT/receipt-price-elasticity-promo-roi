@@ -17,7 +17,7 @@ This document provides a step-by-step methodology for conducting price elasticit
 9. [Strategic Recommendations](#9-strategic-recommendations)
 10. [Documentation & Delivery](#10-documentation--delivery)
 
----
+---e
 
 ## 1. Project Setup & Environment
 
