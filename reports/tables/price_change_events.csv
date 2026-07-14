@@ -1,0 +1,56 @@
+product_name,start_date,end_date,old_price,new_price,pct_change,event_type,confidence_notes
+apples kg,2025-01-26,2025-02-02,2.38,2.16,-0.0924,promotion,reverted within window
+apples kg,2025-02-02,2025-02-12,2.16,2.44,0.1296,permanent_change,no revert seen
+apples kg,2025-02-12,2025-02-21,2.44,2.24,-0.082,promotion,reverted within window
+apples kg,2025-02-21,2025-02-24,2.24,2.45,0.0937,permanent_change,no revert seen
+bacon 400g,2025-01-22,2025-02-18,6.97,6.02,-0.1363,permanent_change,no revert seen
+bacon 400g,2025-02-18,2025-02-24,6.02,6.71,0.1146,permanent_change,no revert seen
+bagels 6pk,2025-02-06,2025-02-16,3.21,3.59,0.1184,promotion,reverted within window
+bagels 6pk,2025-02-16,2025-02-24,3.59,3.19,-0.1114,permanent_change,no revert seen
+bananas kg,2025-01-16,2025-01-23,1.51,1.27,-0.1589,permanent_change,no revert seen
+bananas kg,2025-01-23,2025-02-05,1.27,1.38,0.0866,permanent_change,no revert seen
+bananas kg,2025-02-22,2025-02-24,1.38,1.52,0.1014,permanent_change,no revert seen
+butter,2025-01-18,2025-01-25,5.38,6.05,0.1245,permanent_change,no revert seen
+butter,2025-01-25,2025-02-19,6.05,5.17,-0.1455,permanent_change,no revert seen
+butter,2025-02-19,2025-02-24,5.17,5.64,0.0909,permanent_change,no revert seen
+cereal 500g,2025-01-19,2025-02-06,4.55,4.07,-0.1055,permanent_change,no revert seen
+cereal 500g,2025-02-06,2025-02-14,4.07,4.89,0.2015,permanent_change,no revert seen
+cereal 500g,2025-02-14,2025-02-20,4.89,4.2,-0.1411,permanent_change,no revert seen
+cereal 500g,2025-02-20,2025-02-24,4.2,4.61,0.0976,permanent_change,no revert seen
+cheddar 200g,2025-01-19,2025-01-26,5.23,4.37,-0.1644,promotion,reverted within window
+cheddar 200g,2025-01-26,2025-02-02,4.37,5.24,0.1991,permanent_change,no revert seen
+cheddar 200g,2025-02-02,2025-02-24,5.24,4.69,-0.105,permanent_change,no revert seen
+chicken breast kg,2025-01-15,2025-01-22,9.82,8.84,-0.0998,promotion,reverted within window
+chicken breast kg,2025-01-22,2025-02-01,8.84,9.68,0.095,permanent_change,no revert seen
+chicken breast kg,2025-02-01,2025-02-11,9.68,8.19,-0.1539,promotion,reverted within window
+chicken breast kg,2025-02-11,2025-02-24,8.19,9.525,0.163,permanent_change,no revert seen
+coffee 500g,2025-01-18,2025-02-04,12.58,10.14,-0.194,permanent_change,no revert seen
+coffee 500g,2025-02-04,2025-02-14,10.14,12.53,0.2357,permanent_change,no revert seen
+coffee 500g,2025-02-14,2025-02-24,12.53,10.57,-0.1564,permanent_change,no revert seen
+cola 2L,2025-01-23,2025-02-02,2.62,2.41,-0.0802,permanent_change,no revert seen
+croissant 4pk,2025-01-29,2025-02-05,3.77,3.36,-0.1088,permanent_change,no revert seen
+croissant 4pk,2025-02-05,2025-02-24,3.36,4.345,0.2932,permanent_change,no revert seen
+eggs dozen,2025-01-26,2025-02-02,4.28,3.77,-0.1192,promotion,reverted within window
+eggs dozen,2025-02-02,2025-02-24,3.77,4.35,0.1538,permanent_change,no revert seen
+ground beef kg,2025-02-20,2025-02-24,8.34,7.46,-0.1055,permanent_change,no revert seen
+milk 2L,2025-01-28,2025-02-06,3.51,3.05,-0.1311,promotion,reverted within window
+milk 2L,2025-02-06,2025-02-24,3.05,3.58,0.1738,permanent_change,no revert seen
+olive oil 1L,2025-01-24,2025-02-08,14.22,12.17,-0.1442,permanent_change,no revert seen
+olive oil 1L,2025-02-08,2025-02-17,12.17,14.21,0.1676,promotion,reverted within window
+olive oil 1L,2025-02-17,2025-02-24,14.21,12.35,-0.1309,permanent_change,no revert seen
+orange juice 1L,2025-02-12,2025-02-24,3.74,4.12,0.1016,permanent_change,no revert seen
+pasta 500g,2025-01-19,2025-01-29,1.8,1.98,0.1,permanent_change,no revert seen
+pasta 500g,2025-01-29,2025-02-14,1.98,1.74,-0.1212,permanent_change,no revert seen
+pasta 500g,2025-02-14,2025-02-24,1.74,1.98,0.1379,permanent_change,no revert seen
+spinach bag,2025-01-19,2025-02-02,2.57,2.84,0.1051,permanent_change,no revert seen
+spinach bag,2025-02-02,2025-02-18,2.84,2.41,-0.1514,permanent_change,no revert seen
+spinach bag,2025-02-18,2025-02-24,2.41,2.65,0.0996,permanent_change,no revert seen
+tomatoes kg,2025-01-19,2025-02-04,2.95,3.46,0.1729,permanent_change,no revert seen
+tomatoes kg,2025-02-04,2025-02-10,3.46,2.94,-0.1503,permanent_change,no revert seen
+tomatoes kg,2025-02-10,2025-02-16,2.94,3.2,0.0884,permanent_change,no revert seen
+tomatoes kg,2025-02-16,2025-02-24,3.2,2.76,-0.1375,permanent_change,no revert seen
+white bread,2025-01-15,2025-01-23,2.36,1.95,-0.1737,permanent_change,no revert seen
+white bread,2025-01-23,2025-02-21,1.95,2.22,0.1385,permanent_change,no revert seen
+yogurt 4pk,2025-01-15,2025-01-31,4.02,3.27,-0.1866,permanent_change,no revert seen
+yogurt 4pk,2025-01-31,2025-02-15,3.27,3.87,0.1835,permanent_change,no revert seen
+yogurt 4pk,2025-02-15,2025-02-23,3.87,3.26,-0.1576,permanent_change,no revert seen
