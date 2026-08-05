@@ -9,7 +9,6 @@ The goal is to demonstrate a clear, defensible workflow that a pricing or
 analytics team could adapt for real retail data.
 
 ----
-
  
 ## Quickstart
 
