@@ -8,7 +8,6 @@ A small, end-to-end project that uses synthetic grocery receipts to:
 The goal is to demonstrate a clear, defensible workflow that a pricing or
 analytics team could adapt for real retail data.
 
-
 ----
  
 ## Quickstart
