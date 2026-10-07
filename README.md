@@ -11,7 +11,6 @@ analytics team could adapt for real retail data.
 
 ------
 
-
 ## Quickstart
 
 From a clean clone:
